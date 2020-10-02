@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-crash-course-alison"
+    }
+  },
+  "defaultProject": "angular-crash-course-alison",
+  "cli": {
+    "analytics": false
+  }
 }
